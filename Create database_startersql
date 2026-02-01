@@ -1,2 +1,5 @@
 CREATE DATABASE startersql;
 -- Creates database with the name of startersql.
+
+CREATE DATABASE IF NOT EXISTS startersql;
+-- Used to create database to avoid error
