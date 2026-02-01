@@ -7,6 +7,8 @@
 -- Creating an employees table to practice 
 
 SHOW DATABASES;
+<img width="630" height="384" alt="image" src="https://github.com/user-attachments/assets/a5b5f560-85ec-46b8-a438-aa1af1e9b18b" />
+
 
 -- Creating a new Database
 
