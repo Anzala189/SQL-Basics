@@ -1,0 +1,2 @@
+-- Remove the database permanently or drop the database
+DROP DATABASE startersql;
